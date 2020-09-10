@@ -1,7 +1,7 @@
 <template>
   <div id="login">
     <div class="text" @keyup.enter="login">
-      <h5>迅达管理系统</h5>
+      <h5>速达管理系统</h5>
       <p style="margin-bottom:30px">
         <el-input placeholder="请输入用户名" v-model="acc" prefix-icon="el-icon-s-custom" clearable></el-input>
       </p>
